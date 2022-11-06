@@ -1,0 +1,17 @@
+{
+"name": "PWA Criptocotizador",
+"short_name": "Cripto",
+"theme_color": "#ffe08a",
+"backgroud_color": "#ffe08a",
+"display": "standalone",
+"orientacion": "portrait",
+"scope": "./",
+"start_url": "./",
+"icons": [
+    {
+        "src": "./src/crypto_icono.png",
+        "type": "image/png",
+        "sizes": "512*512"
+    }
+]
+}
